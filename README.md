@@ -59,3 +59,9 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybesecur
 
 <img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/pc.svg" alt="PC" style="margin: 4px">
 </p>
+
+---
+
+### Contact
+
+feel free to contact me on Twitter, since I am most active there
