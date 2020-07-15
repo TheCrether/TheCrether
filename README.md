@@ -11,6 +11,8 @@
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
+<br />
+
 ### Hi,
 
 ### I am a 17 year old Web developer from Austria
@@ -31,7 +33,7 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybesecur
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<p style="display: flex; flex-direction: row; flex-wrap: wrap">
+<p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
 
 <img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/js.svg" alt="js" style="margin: 4px">
 
@@ -43,7 +45,7 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybesecur
 
 <img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/bash.svg" alt="bash" style="margin: 4px">
 
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/visualsudio_code.svg" alt="VS Code" style="margin: 4px">
+<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/visualstudio_code.svg" alt="VS Code" style="margin: 4px">
 
 <img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/npm.svg" alt="npm" style="margin: 4px">
 
