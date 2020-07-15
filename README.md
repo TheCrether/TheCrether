@@ -33,7 +33,7 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybesecur
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-<p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
+<p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;align-items:center">
 
 <img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/js.svg" alt="js" style="margin: 4px">
 
