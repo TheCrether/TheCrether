@@ -18,7 +18,7 @@
 ### I am a 17 year old Web developer from Austria
 
 - Learning Rust
-- Polishing my new [website](https://thecrether.at)\
+- Polishing my new [website](https://thecrether.at)
 - Very active on [Twitter](https://twitter.com/TheCrether)
 
 **Topics that I find interesting:**
