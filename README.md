@@ -4,7 +4,7 @@
 <a href="https://twitter.com/thecrether">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/denis-imeri">
+<a href="https://www.linkedin.com/in/denis-imeri">
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/thecrether/">
