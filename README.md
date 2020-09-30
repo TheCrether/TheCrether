@@ -1,7 +1,7 @@
 ## Hi there I'm [Denis](https://thecrether.at)
 
 <br />
-<a href="https://twitter.com/thecrether">
+<a href="https://twitter.com/TheCrether">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/denis-imeri">
@@ -26,39 +26,6 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybersecu
 
 -----
 
-### Languages and Tools
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-<p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;align-items:center">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/js.svg" alt="js" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/html.svg" alt="html" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/angular.svg" alt="angular" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/react.svg" alt="react" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/bash.svg" alt="bash" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/visualstudio_code.svg" alt="VS Code" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/npm.svg" alt="npm" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/web.svg" alt="web" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/java.svg" alt="java" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/rust.svg" alt="rust" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/jetbrains_intellij.svg" alt="Jetbrains IntelliJ" style="margin: 4px">
-
-<img src="https://raw.githubusercontent.com/TheCrether/TheCrether/master/svg/pc.svg" alt="PC" style="margin: 4px">
-</p>
-
----
-
 ### Contact
 
-feel free to contact me on Twitter, since I am most active there
+feel free to contact me on Twitter ([@TheCrether](https://twitter.com/TheCrether)), since I am most active there
