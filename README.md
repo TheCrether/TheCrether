@@ -1,16 +1,16 @@
 ## Hi there I'm [Denis](https://thecrether.at)
 
 <br />
-<a href="https://twitter.com/TheCrether" style="background: white;">
+<a href="https://twitter.com/TheCrether" style="background-color: white;">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/denis-imeri" style="background: white;">
+<a href="https://www.linkedin.com/in/denis-imeri" style="background-color: white;">
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/thecrether/" style="background: white;">
+<a href="https://www.instagram.com/thecrether/" style="background-color: white;">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/thecrether/" style="background: white;">
+<a href="https://www.reddit.com/user/thecrether/" style="background-color: white;">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
