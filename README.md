@@ -26,7 +26,11 @@ Web Development, SSR, Algorithms, Compiled languages like Go and Rust, Cybersecu
 
 There should also be Java as a large portion in this list, but I had to take my Programming course repository private.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCrether&hide=perl&layout=compact&langs_count=7&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheCrether&show_icons=true&theme=gruvbox" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCrether&hide=perl&layout=compact&langs_count=7&theme=gruvbox" height="150px" />
+</div>
+
 -----
 
 ### Contact
