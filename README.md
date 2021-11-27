@@ -1,22 +1,19 @@
-## Hi there I'm [Denis](https://thecrether.at)
+# Hi there I'm [Denis](https://thecrether.at)
 
 <br />
 <a href="https://twitter.com/TheCrether" style="background-color: white;">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Twitter" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/denis-imeri" style="background-color: white;">
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/linkedin.svg" />
+<img align="center" alt="LinkedIn" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/thecrether/" style="background-color: white;">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/thecrether/" style="background-color: white;">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://open.spotify.com/user/1160198887" style="background-color: white;">
+  <img align="center" alt="Spotify" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/spotify.svg" />
 </a>
 
 <br />
 
-### Hi, I am an 18 year old Web developer from Austria
+## I am an 18 year old Web developer from Austria
 
 **Topics that I find interesting:**
 
@@ -33,6 +30,6 @@ There should also be Java as a large portion in this list, but I had to take my 
 
 -----
 
-### Contact
+## Contact
 
-feel free to contact me on Twitter ([@TheCrether](https://twitter.com/TheCrether)), since I am most active there
+feel free to contact me on Twitter ([@TheCrether](https://twitter.com/TheCrether)) or [LinkedIn](https://www.linkedin.com/in/denis-imeri), since I am most active there
