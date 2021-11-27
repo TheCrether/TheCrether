@@ -2,15 +2,16 @@
 
 <br />
 <a href="https://twitter.com/TheCrether" style="background-color: white;">
-  <img align="center" alt="Twitter" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="48px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/denis-imeri" style="background-color: white;">
-<img align="center" alt="LinkedIn" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn" width="48px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/1160198887" style="background-color: white;">
-  <img align="center" alt="Spotify" width="22px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/spotify.svg" />
+  <img align="left" alt="Spotify" width="48px" src="https://github.com/TheCrether/TheCrether/blob/master/icons/spotify.svg" />
 </a>
 
+<br />
 <br />
 
 ## I am an 18 year old Web developer from Austria
