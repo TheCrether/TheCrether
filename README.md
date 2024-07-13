@@ -14,7 +14,7 @@
 <br />
 <br />
 
-I am an 20 year old developer and paramedic from Austria. I'm interested in all stuff web, networking and DevOps.
+I am an 21 year old developer and paramedic from Austria. I'm interested in all stuff web, networking and DevOps.
 
 I like to read [(my goodreads profile)](https://www.goodreads.com/thecrether), go longboarding and tinker with computers.
 
