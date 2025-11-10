@@ -14,10 +14,10 @@
 <br />
 <br />
 
-I am an 21 year old developer and paramedic from Austria. I'm interested in all stuff web, networking and DevOps.
+I am an 22 year old software engineer and student from Austria. I'm interested in all stuff web, networking and DevOps.
 
-I like to read [(my goodreads profile)](https://www.goodreads.com/thecrether), go longboarding and tinker with computers.
+I like to read [(my goodreads profile)](https://www.goodreads.com/thecrether), go longboarding and tinker with all things computers.
 
 ## Contact
 
-For any business opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/denis-imeri) or [X](https://twitter.com/thecrether)
+For any business opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/denis-imeri)\
