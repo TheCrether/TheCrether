@@ -20,4 +20,4 @@ I like to read [(my goodreads profile)](https://www.goodreads.com/thecrether), g
 
 ## Contact
 
-For any business opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/denis-imeri)\
+For any business opportunities, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/denis-imeri)
